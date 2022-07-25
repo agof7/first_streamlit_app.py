@@ -1,4 +1,3 @@
 import streamlit
 
-x = "My Parents New Healthy Diner"
-y= x.title()
+streamlit.title ("My Parents New Healthy Diner")
